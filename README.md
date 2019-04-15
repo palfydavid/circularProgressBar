@@ -1,2 +1,2 @@
 # Circular progress bar
-Using HTML canvas and Javascript.
+Using HTML5 canvas and JavaScript.
